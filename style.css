@@ -15,6 +15,7 @@ body{
     color: white;
     border-radius: 2px solid black;
     font-size: 18px;
+    letter-spacing: 3px;
 }
 
 #value{
