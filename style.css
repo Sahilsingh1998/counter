@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f1f1f1;
+    margin-top: 15%;
+}
+
+.decrease,
+.reset,
+.Increase{
+    background-color: black;
+    color: white;
+    border-radius: 2px solid black;
+    font-size: 18px;
+}
+
+#value{
+    font-size: 5rem;
+}
+
